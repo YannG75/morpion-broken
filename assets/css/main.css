@@ -1,0 +1,35 @@
+#choice {
+    width: 100vw;
+    height: 500px;
+}
+
+#choice > div{
+ width: 500px;
+}
+
+.btn {
+    width: 180px;
+    height: 55px;
+}
+
+
+ #gameContainer {
+     justify-content: center;
+ }
+
+ .table {
+     width: 70%;
+     height: 500px;
+     background-color: #005cbf;
+ }
+.table-bordered td {
+     border: 4px solid #dee2e6;
+ }
+
+.play {
+    font-size: 90px;
+    text-align: center;
+    color: white;
+    width: 33%;
+    height: 33%;
+}
